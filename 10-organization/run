@@ -1,0 +1,1 @@
+Terraform can create Organizations accounts and configure the cross-account role name at account creation; use a dedicated Terraform execution role in each workload account after bootstrap.

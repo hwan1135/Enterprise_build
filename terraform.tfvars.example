@@ -1,0 +1,9 @@
+region                     = "us-east-1"
+aws_profile                = "platform-admin"
+organization_name          = "example"
+application_name           = "reference-app"
+development_account_id     = "111122223333"
+shared_services_account_id = "444455556666"
+public_zone_name           = "example.com"
+
+container_image = "111122223333.dkr.ecr.us-east-1.amazonaws.com/reference-app:1.0.0"
